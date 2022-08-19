@@ -1,0 +1,32 @@
+
+
+.primeira{
+  width: 600px;
+  height: 600px;
+  background-color: #FFFFF0;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  margin-top: -300px;
+  margin-left: -300px;
+  position: absolute;
+}
+.tabela{
+  border-top: dashed 15px #4682B4 ;
+  border-left: dashed 15px #00008b ;
+  border-bottom: dashed 15px #4682B4 ;
+  border-right: dashed 15px #00008b ;
+  width: 600px;
+  height: 600px;
+  font-size: 20px;
+  font-family: cursive;
+}
+th{
+  color: #00008B;
+}
+tr{
+  color: #6495ED;
+}
+a{
+  color: #6495ED;
+}
